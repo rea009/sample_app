@@ -9,6 +9,7 @@ group :development, :test do
   gem 'guard-rspec'
   gem 'pry'
   gem 'rspec-rails', '~> 3.0'
+  gem 'sqlite3'
 end
 
 #gems used only for assets and not required
